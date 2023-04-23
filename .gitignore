@@ -1,0 +1,4 @@
+/code_submission_application/target
+*.log
+application.properties
+
